@@ -1,0 +1,59 @@
+{
+    "product" : [
+        {
+            "name" : "Norbert",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price" : "2900",
+            "_id" : "5be9c8541c9d440000665243",
+            "imageUrl" : "images/teddy_1.jpg",
+            "color" : [
+                "Tan",
+                "Chocolate",
+                "Black",
+                "White"
+            ]
+        },{
+            "name" : "Arnold",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price" : "3900",
+            "_id" : "5beaa8bf1c9d440000a57d94",
+            "imageUrl" : "images/teddy_2.jpg",
+            "color" : [
+                "Pale brown",
+                "Dark brown",
+                "white"
+            ]
+        },{
+            "name" : "Lenny and Carl",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price" : "5900",
+            "_id" : "5beaaa8f1c9d440000a57d95",
+            "imageUrl" : "json/images/teddy_3.jpg",
+            "color" : [
+                "Brown"
+            ]
+        },{
+            "name" : "Gustav",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price" : "4500",
+            "_id" : "5beaabe91c9d440000a57d96",
+            "imageUrl" : "images/teddy_4.jpg",
+            "color" : [
+                "Brown",
+                "Blue",
+                "Pink"
+            ]
+        },{
+            "name" : "Garfunkel",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price" : "5500",
+            "_id" : "5beaacd41c9d440000a57d97",
+            "imageUrl" : "images/teddy_5.jpg",
+            "color" : [
+                "Beige",
+                "Tan",
+                "Chocolate"
+            ]
+        }
+    ]
+}
